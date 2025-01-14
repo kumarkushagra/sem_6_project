@@ -83,6 +83,7 @@ The software stack processes the captured data and appends it to a database.
 - Microphone
 - Python Environment
 - MongoDB/SQL Database
+- use this to compress images `https://pngquant.org`
 
 ### Steps
 1. Flash the ESP32 with the microcontroller logic.
