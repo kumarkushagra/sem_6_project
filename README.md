@@ -106,7 +106,8 @@ The software stack processes the captured data and appends it to a database.
 ## Future Improvements
 - Implement facial recognition for visitor verification. 
 - Enable SMS-based visitor verification. 
-- Real-time monitoring dashboard for admin users. 
+- Real-time monitoring dashboard for admin users.
+- Maintain logs of vehicles still present in University grounds (i.e. maintain an exit log also)  
 
 ---
 
